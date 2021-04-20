@@ -2,6 +2,7 @@
 layout: default
 title: Typography
 parent: Utilities
+grand_parent: Documents
 ---
 
 # Typography Utilities
@@ -19,18 +20,18 @@ parent: Utilities
 
 Use the `.fs-1` - `.fs-10` to set an explicit font-size.
 
-| Class   | Small screen size `font-size`  | Large screen size `font-size` |
-|:--------|:-------------------------------|:------------------------------|
-| `.fs-1` | 9px                            | 10px                          |
-| `.fs-2` | 11px                           | 12px                          |
-| `.fs-3` | 12px                           | 14px                          |
-| `.fs-4` | 14px                           | 16px                          |
-| `.fs-5` | 16px                           | 18px                          |
-| `.fs-6` | 18px                           | 24px                          |
-| `.fs-7` | 24px                           | 32px                          |
-| `.fs-8` | 32px                           | 38px                          |
-| `.fs-9` | 38px                           | 42px                          |
-| `.fs-10`| 42px                           | 48px                          |
+| Class    | Small screen size `font-size` | Large screen size `font-size` |
+| :------- | :---------------------------- | :---------------------------- |
+| `.fs-1`  | 9px                           | 10px                          |
+| `.fs-2`  | 11px                          | 12px                          |
+| `.fs-3`  | 12px                          | 14px                          |
+| `.fs-4`  | 14px                          | 16px                          |
+| `.fs-5`  | 16px                          | 18px                          |
+| `.fs-6`  | 18px                          | 24px                          |
+| `.fs-7`  | 24px                          | 32px                          |
+| `.fs-8`  | 32px                          | 38px                          |
+| `.fs-9`  | 38px                          | 42px                          |
+| `.fs-10` | 42px                          | 48px                          |
 
 <div class="code-example" markdown="1">
 Font size 1
@@ -110,11 +111,11 @@ Font weight 700
 
 Use the `lh-` classes to explicitly apply line height to text.
 
-| Class         | `line-height` value  | Notes                         |
-|:--------------|:---------------------|:------------------------------|
-| `.lh-0`       | 0                    |                               |
-| `.lh-tight`   | 1.1                  | Default for headings          |
-| `.lh-default` | 1.4                  | Default for body (paragraphs) |
+| Class         | `line-height` value | Notes                         |
+| :------------ | :------------------ | :---------------------------- |
+| `.lh-0`       | 0                   |                               |
+| `.lh-tight`   | 1.1                 | Default for headings          |
+| `.lh-default` | 1.4                 | Default for body (paragraphs) |
 
 <div class="code-example" markdown="1">
 No Line height
@@ -150,7 +151,7 @@ Default line height
 By default text is justified left. Use these `text-` classes to override settings:
 
 | Class          | What it does         |
-|:---------------|:---------------------|
+| :------------- | :------------------- |
 | `.text-left`   | `text-align: left`   |
 | `.text-right`  | `text-align: right`  |
 | `.text-center` | `text-align: center` |
