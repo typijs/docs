@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Search
+parent: Documents
 nav_order: 7
 ---
 

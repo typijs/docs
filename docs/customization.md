@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Customization
+parent: Documents
 nav_order: 6
 ---
 
