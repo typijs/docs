@@ -1,10 +1,10 @@
 {
-  "name": "just-the-docs",
+  "name": "typijs.github.io",
   "version": "0.3.3",
-  "description": "A modern Jekyll theme for documentation",
-  "repository": "pmarsceill/just-the-docs",
+  "description": "The TypiJS documentation",
+  "repository": "typijs/typijs.github.io",
   "license": "MIT",
-  "bugs": "https://github.com/pmarsceill/just-the-docs/issues",
+  "bugs": "https://github.com/typijs/typijs.github.io/issues",
   "devDependencies": {
     "stylelint": "^13.7.2",
     "@primer/css": "^15.2.0",
